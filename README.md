@@ -175,13 +175,13 @@ screenshots/
 # 🤝 Connect With Me
 
 GitHub:
-https://github.com/yourusername
+https://github.com/dikshadeepak
 
 LinkedIn:
-https://linkedin.com/in/yourprofile
+https://linkedin.com/in/diksha-deepak-72bab7391
 
 Email:
-your.email@example.com
+dikshadeepak0195@example.com
 
 ---
 
